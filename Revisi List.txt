@@ -1,0 +1,8 @@
+1. Fenomena tersebut menjadi masalah utama bagi para wisatawan (udah)
+2. Tidak perlu ada "tak hanya itu", langsung aja ke intinya (udah)
+3. Jangan pake sia sia, paraphrase. atau kalau ada bukti bisa pakai "Terjadi penuruan pelanggan" (udah)
+4. Microcontroller gausah dibahas, langsung bahas IoT nya (udah)
+5. "Jika dilihat pada..." ndak usah pake ini, langsung aja "rumusan masalah pada penelitian " (udah)
+6. Hanya "lah" dikurangi (udah)
+7. IoT berfungsi sebagai alat uji coba (udah)
+8. Kurangi penggunaan kata "hanya" (udah)
