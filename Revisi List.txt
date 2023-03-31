@@ -1,1 +1,8 @@
-1. Revisi sitasi (udah)
+Revisi 
+
+BAB 1
+
+Rumusan Masalah
+1. Rumusan masalah jangan menggunakan kata "bagaimana CARA" karena jika ada 12 cara, harus ditulis semua.
+2. Untuk setiap rumusan masalah harus memiliki metode penyelesaian yang sesuai. Contoh :
+	- Rumusan masalah 1 : bagaimana rancangan water level measurement system yang bisa mengukur tinggi air, mengirim data, dan menampilkan data realtime ke media website  
