@@ -1,0 +1,6 @@
+percobaan - Tinggi Air - Terbaca
+1		3,5 cm	 4 cm
+2 		6 cm		 6 cm
+3		8 cm		 8 cm
+4		10 cm		 10 cm
+
